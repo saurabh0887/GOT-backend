@@ -4,7 +4,7 @@
   "description": "GOT Explorer",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon app.js"
+    "start": "node app.js"
   },
   "author": "Saurabh",
   "license": "ISC",
